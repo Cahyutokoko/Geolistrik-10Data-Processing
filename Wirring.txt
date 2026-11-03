@@ -1,0 +1,6 @@
+STM32 PB0-PB3 -> Relay 4CH (AB electrodes)
+STM32 PA0 -> ADC Vmn (dari preamp)
+STM32 PA1 -> ADC Iab (dari ACS712)
+STM32 PA9/PA10 -> UART to Laptop / Bluetooth HC05
+STM32 GND -> Common Ground
+Battery 12V -> Inverter ke AB (50-200V)
